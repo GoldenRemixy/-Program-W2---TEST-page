@@ -4,3 +4,43 @@ body
     color: #f3f3f3;
     font-family: 'Times New Roman';
 }
+
+.motto
+{
+    font-size: 20;
+}
+
+img
+{
+    width: 25%;
+    padding-top: 8%;
+}
+
+h3
+{
+    width: 20%;
+}
+
+#baner
+{
+    background-color: #252525;
+    height: 13%;
+    width: auto;
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    text-align: center;
+}
+
+#footer
+{
+    background-color: #252525;
+    color: #f3f3f3;
+    height: 5%;
+    position: absolute;
+    top: 100%; right: 0; bottom: 0; left: 0;
+}
+
+.copyright
+{
+    padding-left: 1%;
+}
